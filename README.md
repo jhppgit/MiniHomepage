@@ -37,3 +37,6 @@
 
 ## footer 수정
 - footer.md 파일 추가
+
+## sidebar 생성
+- sidebar.md 생성
